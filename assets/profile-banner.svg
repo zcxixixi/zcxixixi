@@ -1,0 +1,36 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Cenxi Zhang profile banner</title>
+  <desc id="desc">A dark technical profile banner for LLM agents, embedded control, and traceable systems.</desc>
+  <rect width="1200" height="360" rx="28" fill="#0b0f14"/>
+  <rect x="1" y="1" width="1198" height="358" rx="27" stroke="#2f3b4a" stroke-width="2"/>
+  <path d="M0 282 C180 238 258 321 432 275 C633 222 747 135 1200 168 V360 H0 V282Z" fill="#102131"/>
+  <path d="M0 306 C190 267 322 334 486 292 C687 241 782 181 1200 217 V360 H0 V306Z" fill="#0f2d2c"/>
+  <g opacity="0.42">
+    <path d="M84 68 H353 M84 104 H270 M84 140 H400 M84 176 H320" stroke="#3d5066" stroke-width="2"/>
+    <path d="M822 72 H1060 M822 108 H1118 M822 144 H1006 M822 180 H1092" stroke="#35515a" stroke-width="2"/>
+    <circle cx="748" cy="117" r="5" fill="#39d0b8"/>
+    <circle cx="793" cy="178" r="5" fill="#ffb86b"/>
+    <circle cx="716" cy="228" r="5" fill="#7aa2ff"/>
+    <path d="M748 117 L793 178 L716 228 L642 171 L748 117Z" stroke="#4b647b" stroke-width="2"/>
+  </g>
+  <g transform="translate(72 238)">
+    <rect width="418" height="72" rx="16" fill="#0e1621" stroke="#2c3a49"/>
+    <text x="24" y="29" fill="#8bb8ff" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15">agent-loop / control-loop / evidence-loop</text>
+    <text x="24" y="54" fill="#c9d5e2" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15">make assumptions visible, then run the system</text>
+  </g>
+  <g transform="translate(724 238)">
+    <rect width="404" height="72" rx="16" fill="#0e1621" stroke="#2c3a49"/>
+    <text x="24" y="29" fill="#39d0b8" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15">LLM agents x embedded systems</text>
+    <text x="24" y="54" fill="#c9d5e2" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15">from traceable workflows to real robots</text>
+  </g>
+  <text x="72" y="104" fill="#f4f7fb" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="800">Cenxi Zhang</text>
+  <text x="74" y="150" fill="#9fb1c5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22">Undergraduate researcher / AI-agent and embedded-control builder</text>
+  <text x="74" y="196" fill="#e2e8f0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="650">I build systems that are not only intelligent, but inspectable.</text>
+  <g transform="translate(844 54)">
+    <rect width="284" height="132" rx="18" fill="#111923" stroke="#2e4053"/>
+    <text x="24" y="38" fill="#f4f7fb" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="16">current vector</text>
+    <text x="24" y="70" fill="#8bb8ff" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15">01 LLM agents</text>
+    <text x="24" y="94" fill="#39d0b8" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15">02 agentic simulation</text>
+    <text x="24" y="118" fill="#ffb86b" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="15">03 embodied control</text>
+  </g>
+</svg>
