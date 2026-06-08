@@ -20,8 +20,6 @@ In short:
 
 ## Materials
 
-For application forms asking for a directly accessible link, use:
+[Application Packet](application-materials/Cenxi_Zhang_Combined_CV_Transcript_Research_Proposal.pdf)
 
-[Cenxi_Zhang_Combined_CV_Transcript_Research_Proposal.pdf](application-materials/Cenxi_Zhang_Combined_CV_Transcript_Research_Proposal.pdf)
-
-Separated files: [CV](application-materials/Cenxi_Zhang_CV.pdf) · [Transcript](application-materials/Cenxi_Zhang_Transcript.pdf) · [Research Proposal](application-materials/Cenxi_Zhang_Research_Proposal.pdf)
+Separated: [CV](application-materials/Cenxi_Zhang_CV.pdf) · [Transcript](application-materials/Cenxi_Zhang_Transcript.pdf) · [Research Proposal](application-materials/Cenxi_Zhang_Research_Proposal.pdf)
