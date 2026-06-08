@@ -1,14 +1,12 @@
 <img src="assets/profile-banner.svg" alt="Cenxi Zhang profile banner" width="100%" />
 
-# Cenxi Zhang
+# Hi, I'm Cenxi Zhang
 
-Hi, I'm Cenxi Zhang.
+🤖 I build intelligent systems at the intersection of **AI, robotics, embedded systems, and control engineering**.
 
-I build intelligent systems at the intersection of **AI, robotics, embedded systems, and control engineering**.
+🛠️ I enjoy turning research ideas into real-world systems, and exploring how intelligent agents can reason, remember, and act reliably in dynamic environments.
 
-I enjoy turning research ideas into real-world systems, and exploring how intelligent agents can reason, remember, and act reliably in dynamic environments.
-
-My current interests include **LLM agents**, **embodied AI**, **long-horizon planning**, **multi-agent systems**, **agent reliability and evaluation**, **computer vision**, and **robotics**.
+🔍 My current interests include **LLM agents**, **embodied AI**, **long-horizon planning**, **multi-agent systems**, **agent reliability and evaluation**, **computer vision**, and **robotics**.
 
 I believe intelligent systems should not only be powerful, but also **traceable, verifiable, and trustworthy**.
 
