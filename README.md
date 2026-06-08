@@ -2,15 +2,15 @@
 
 # Cenxi Zhang
 
-**Undergraduate researcher / AI-agent and embedded-control builder**
+Hi, I'm Cenxi Zhang.
 
-I am interested in systems that do not stop at fluent output.
+I build intelligent systems at the intersection of **AI, robotics, embedded systems, and control engineering**.
 
-My current work sits between **LLM agents**, **agentic simulation**, and **embodied control**: how to make intelligent systems expose their assumptions, keep intermediate states inspectable, and still connect back to real sensing, actuation, and decision-making.
+I enjoy turning research ideas into real-world systems, and exploring how intelligent agents can reason, remember, and act reliably in dynamic environments.
 
-In short:
+My current interests include **LLM agents**, **embodied AI**, **long-horizon planning**, **multi-agent systems**, **agent reliability and evaluation**, **computer vision**, and **robotics**.
 
-> build the workflow, expose the trace, run the system.
+I believe intelligent systems should not only be powerful, but also **traceable, verifiable, and trustworthy**.
 
 <p>
   <a href="mailto:zcx1146@gmail.com">Email</a> ·
